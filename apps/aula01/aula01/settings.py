@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['*']
 
 
 # Application definition
-MY_APPS = ['geo']
+MY_APPS = ['geo', 'inscricao', 'cadastro_edital']
 LIBS_APPS = []
 DEBUG_APPS = []
 THIRD_APPS = []
